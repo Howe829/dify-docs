@@ -74,7 +74,7 @@
                           "description": " 文档标题"
                         },
                         "metadata": {
-                          "type": "string",
+                          "type": "object",
                           "description": "包含数据源中文档的元数据属性及其值。"
                         }
                       },

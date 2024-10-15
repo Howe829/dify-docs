@@ -74,7 +74,7 @@
                           "description": "Document title"
                         },
                         "metadata": {
-                          "type": "string",
+                          "type": "object",
                           "description": "Contains metadata attributes and their values for the document in the data source."
                         }
                       },

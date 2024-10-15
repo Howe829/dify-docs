@@ -74,7 +74,7 @@
                           "description": "ドキュメントの名前"
                         },
                         "metadata": {
-                          "type": "string",
+                          "type": "object",
                           "description": "データソース内のドキュメントのメタデータ属性とその値が含まれます。"
                         }
                       },
