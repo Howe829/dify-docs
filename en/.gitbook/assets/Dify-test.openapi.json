@@ -58,7 +58,7 @@
                   "type": "object",
                   "properties": {
                     "records": {
-                      "type": "object",
+                      "type": "array",
                       "properties": {
                         "content": {
                           "type": "string",
